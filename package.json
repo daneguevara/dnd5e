@@ -1,0 +1,19 @@
+{
+  "name": "dnd5e",
+  "version": "1.0.0",
+  "description": "Service for DnD 5th Edition SRD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daneguevara/dnd5e.git"
+  },
+  "author": "Dane Guevara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daneguevara/dnd5e/issues"
+  },
+  "homepage": "https://github.com/daneguevara/dnd5e#readme"
+}
